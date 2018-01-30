@@ -1,0 +1,7 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -49,5 +49,3 @@ atlassian*
+ !/var/.htaccess
+ /vendor/*
+ !/vendor/.htaccess
+-
+-chef-runtime.path
